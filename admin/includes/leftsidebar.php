@@ -1,0 +1,118 @@
+            <div class="left side-menu">
+                <div class="sidebar-inner slimscrollleft">
+
+                    <!--- Sidemenu -->
+                    <div id="sidebar-menu">
+                        <ul>
+                        	<li class="menu-title">Navigation</li>
+
+                            <li class="has_sub">
+                                <a href="registered.php" class="waves-effect"><i class="mdi mdi-view-dashboard"></i> <span> Registered Users </span> </a>
+                            </li>  
+
+                             
+                            <li class="has_sub">
+                                <a href="register-user.php" class="waves-effect"><i class="mdi mdi-view-dashboard"></i> <span> Register For User </span> </a>
+                            </li>  
+
+                            <li class="has_sub">
+                                <a href="contactform.php" class="waves-effect"><i class="mdi mdi-view-dashboard"></i> <span> Contact Us From</span> </a>
+                            </li>  
+
+
+                            <!--News-->
+
+                            <li class="has_sub">
+                            <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-format-list-bulleted"></i> <span> News </span> <span class="menu-arrow"></span></a>
+                            <ul class="list-unstyled">
+
+                            <li class="has_sub">
+                                <a href="dashboard.php" class="waves-effect"><i class="mdi mdi-view-dashboard"></i> <span> Dashboard </span> </a>                      
+                            </li>  
+
+                            <li class="has_sub">
+                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-format-list-bulleted"></i> <span> Category </span> <span class="menu-arrow"></span></a>
+                                <ul class="list-unstyled">
+                                	<li><a href="add-category.php">Add Category</a></li>
+                                    <li><a href="manage-categories.php">Manage Category</a></li>
+                                </ul>
+                            </li>
+
+                        <li class="has_sub">
+                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-format-list-bulleted"></i> <span>Sub Category </span> <span class="menu-arrow"></span></a>
+                                <ul class="list-unstyled">
+                                    <li><a href="add-subcategory.php">Add Sub Category</a></li>
+                                    <li><a href="manage-subcategories.php">Manage Sub Category</a></li>
+                                </ul>
+                            </li>               
+                        <li class="has_sub">
+                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-format-list-bulleted"></i> <span> Posts </span> <span class="menu-arrow"></span></a>
+                                <ul class="list-unstyled">
+                                    <li><a href="add-post.php">Add Posts</a></li>
+                                    <li><a href="manage-posts.php">Manage Posts</a></li>
+                                     <li><a href="trash-posts.php">Trash Posts</a></li>
+                                </ul>
+                            </li>  
+                     
+                        <li class="has_sub">
+                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-format-list-bulleted"></i> <span> Comments </span> <span class="menu-arrow"></span></a>
+                                <ul class="list-unstyled">
+                                  <li><a href="news-unapprove-comment.php">Waiting for Approval </a></li>
+                                    <li><a href="news-manage-comment.php">Approved Comments</a></li>
+                                </ul>
+                            </li> 
+                     </ul> 
+                        </li> 
+
+
+                        <!--review-->
+
+                        <li class="has_sub">
+                            <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-format-list-bulleted"></i> <span> Reviews </span> <span class="menu-arrow"></span></a>
+                            <ul class="list-unstyled">
+
+                            <li class="has_sub">
+                                <a href="review-dashboard.php" class="waves-effect"><i class="mdi mdi-view-dashboard"></i> <span> Dashboard </span> </a>                      
+                            </li>  
+
+                            <li class="has_sub">
+                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-format-list-bulleted"></i> <span> Category </span> <span class="menu-arrow"></span></a>
+                                <ul class="list-unstyled">
+                                	<li><a href="review-add-category.php">Add Category</a></li>
+                                    <li><a href="review-manage-categories.php">Manage Category</a></li>
+                                </ul>
+                            </li>
+
+                        <li class="has_sub">
+                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-format-list-bulleted"></i> <span>Sub Category </span> <span class="menu-arrow"></span></a>
+                                <ul class="list-unstyled">
+                                    <li><a href="review-add-subcategory.php">Add Sub Category</a></li>
+                                    <li><a href="review-manage-subcategories.php">Manage Sub Category</a></li>
+                                </ul>
+                            </li>               
+                        <li class="has_sub">
+                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-format-list-bulleted"></i> <span> Posts </span> <span class="menu-arrow"></span></a>
+                                <ul class="list-unstyled">
+                                    <li><a href="review-add-post.php">Add Posts</a></li>
+                                    <li><a href="review-manage-posts.php">Manage Posts</a></li>
+                                     <li><a href="review-trash-posts.php">Trash Posts</a></li>
+                                </ul>
+                            </li>  
+                     
+                        <li class="has_sub">
+                                <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-format-list-bulleted"></i> <span> Comments </span> <span class="menu-arrow"></span></a>
+                                <ul class="list-unstyled">
+                                  <li><a href="unapprove-comment.php">Waiting for Approval </a></li>
+                                    <li><a href="manage-comments.php">Approved Comments</a></li>
+                                </ul>
+                            </li> 
+                     </ul> 
+                        </li> 
+
+
+                        </ul>
+                    </div>
+                </div>
+                <!-- Sidebar -left -->
+
+            </div>
